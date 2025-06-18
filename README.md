@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hello, I am Avinash , A Full Stack Developer.<br><br>👨‍💻Worked as a Backend Developer Intern at Banao Technologies.<br><br>🤔 I am a good Problem Solver with good Experience in Data Structures and Algorithm.<br><br>🔭 I acheived a rating of 1890 on LeetCode Contest<br><br>
+# 💫 About Me
+
+Hello, I am Avinash, a Full Stack Developer.
+
+👨‍💻 Worked as a Software Development Intern at Abhay Education Pvt. Ltd.  
+👨‍💻 Worked as a Backend Developer Intern at Banao Technologies.  
+🤔 I am a good Problem Solver with strong experience in Data Structures and Algorithms.  
+🔭 Achieved a LeetCode Contest Rating of **1902 (Knight Level)** – Top 4% globally.
+
 
 
 ## 🌐 Socials:
